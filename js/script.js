@@ -85,7 +85,7 @@ Type <span class="keyword">courses</span> for extra certifications.
 <span class="keyword">CVEs:</span>
 
   [x] <span class="keyword">CVE-2026-10835</span>   -- published.
-  [ ] <span class="keyword">CVE-2026-85000</span>   -- status: COORDINATING (not public yet, details withheld until disclosure).
+  [ ] <span class="keyword">SOON...</span>   -- status: COORDINATING (not public yet, details withheld until disclosure).
 
 Responsible disclosure takes patience. This list updates as things go public.
     `,
