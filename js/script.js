@@ -114,8 +114,8 @@ Type <span class="keyword">social</span> for the rest of my profiles.
 <span class="keyword">SOCIAL:</span>
 
 - LinkedIn:  <a href="https://www.linkedin.com/in/alberto-ucendo-45470b284/" target="_blank">linkedin.com/in/alberto-ucendo-45470b284</a>
-- Instagram: <span class="hint">(pending -- handle not set yet)</span>
-- X/Twitter: <span class="hint">(pending -- handle not set yet)</span>
+- Instagram: <a href="https://instagram.com/0x6e33" target="_blank">instagram.com/0x6e33</a>
+- X/Twitter: <a href="https://x.com/0x6e33" target="_blank">x.com/0x6e33</a>
     `,
     'github': `
 <span class="keyword">REPOSITORIES:</span>
