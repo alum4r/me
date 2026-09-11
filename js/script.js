@@ -93,10 +93,6 @@ Responsible disclosure takes patience. This list updates as things go public.
 - Acknowledged by: Victoria's Secret, SoundCloud, Tether, MetabullAI, among others.
 - Regularly publishes technical write-ups covering exploitation and vulnerability-analysis workflows.
     `,
-    'n3': `
-That name's retired. I go by <span class="keyword">alum4r</span> these days.
-Try that instead -- or <span class="keyword">whoami</span> if you want the full story.
-    `,
     'whoami': `
 <span class="keyword">Alberto Ucendo Martínez</span>, a.k.a. <span class="keyword">alum4r</span>.
 Pentester & developer. Yes, you're still just 'guest'.
