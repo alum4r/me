@@ -84,7 +84,7 @@ Type <span class="keyword">courses</span> for extra certifications.
     'cve': `
 <span class="keyword">CVEs:</span>
 
-  [x] <span class="keyword">CVE-2026-10835</span>   -- published.
+  [x] <span class="keyword">CVE-2026-10835</span>   -- published <a href="https://wpscan.com/vulnerability/3c7b37ab-b069-4257-82b2-5b4c54f7e503/" target="_blank">here</a>.
   [ ] <span class="keyword">SOON...</span>   -- status: COORDINATING (not public yet, details withheld until disclosure).
 
 Responsible disclosure takes patience. This list updates as things go public.
