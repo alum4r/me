@@ -5,6 +5,7 @@
     --prompt-color: #00bfff;
     --cmd-color: #f0f6fc;
     --error-color: #ff5555;
+    --accent-color: #e2b93d;
 }
 
 body {
@@ -22,6 +23,7 @@ body {
 
 /* Main window container style */
 .terminal-window {
+    position: relative;
     width: 80%;
     max-width: 900px;
     height: 80vh;
@@ -31,6 +33,24 @@ body {
     box-shadow: 0 0 20px rgba(0, 255, 0, 0.1);
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+}
+
+/* Subtle CRT scanline overlay -- purely cosmetic, doesn't affect readability */
+.terminal-window::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+        to bottom,
+        rgba(0, 255, 0, 0.035) 0px,
+        rgba(0, 255, 0, 0.035) 1px,
+        transparent 1px,
+        transparent 3px
+    );
+    mix-blend-mode: overlay;
+    z-index: 5;
 }
 
 /* Window title bar */
@@ -73,6 +93,7 @@ body {
     overflow-y: auto;
     font-size: 16px;
     line-height: 1.5;
+    text-shadow: 0 0 1px rgba(0, 255, 0, 0.35);
 }
 
 /* Output styles */
@@ -95,8 +116,14 @@ body {
     margin-bottom: 20px;
 }
 
+.hint {
+    color: #6e7681;
+    font-style: italic;
+    font-size: 14px;
+}
+
 .keyword {
-    color: #e2b93d; /* Yellow for highlighting */
+    color: var(--accent-color); /* Yellow for highlighting */
     font-weight: bold;
 }
 
@@ -128,6 +155,7 @@ input[type="text"] {
     font-size: 16px;
     flex: 1;
     outline: none;
+    caret-shape: block;
 }
 
 /* Scrollbar */
