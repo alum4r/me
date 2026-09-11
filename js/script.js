@@ -40,8 +40,13 @@ Type <span class="keyword">whoami</span> if acronyms and handles aren't enough f
 - Spanish (Native).
 - English (Intermediate -- advanced technical reading & writing).
     `,
-    'experience': `
+        'experience': `
 <span class="keyword">PROFESSIONAL EXPERIENCE:</span>
+
+> <span class="keyword">Cybersecurity Engineer</span> -- Cojali S.L.
+  05/2026 - (on-site, full-time)
+  Cybersecurity, security testing and integration architecture: threat modeling, security documentation, penetration testing reporting, and cloud/API architecture design.
+  Skills: IT Infrastructure, Technical Support, Cybersecurity Risk, IT Services, Technical Assistance.
 
 > <span class="keyword">Web Application Deployment Intern</span> -- Minsait
   03/2025 - 06/2025
