@@ -84,8 +84,8 @@ Type <span class="keyword">courses</span> for extra certifications.
     'cve': `
 <span class="keyword">CVEs:</span>
 
-  [x] <span class="keyword">CVE-2026-10835</span>   -- published <a href="https://wpscan.com/vulnerability/3c7b37ab-b069-4257-82b2-5b4c54f7e503/" target="_blank">here</a>.
-  [x] <span class="keyword">CVE-2026-85000</span>   -- published <a href="https://wpscan.com/vulnerability/3c7f7d07-2c46-4839-b97f-27fe41e6292d/" target="_blank">here</a>.
+  [x] <span class="keyword">CVE-2026-10835</span> -- published <a href="https://wpscan.com/vulnerability/3c7b37ab-b069-4257-82b2-5b4c54f7e503/" target="_blank">here</a>.
+  [x] <span class="keyword">CVE-2026-85000</span> -- published <a href="https://wpscan.com/vulnerability/3c7f7d07-2c46-4839-b97f-27fe41e6292d/" target="_blank">here</a>.
     `,
     'alum4r': `
 <span class="keyword">BUG BOUNTY / CTF ACHIEVEMENTS:</span>
