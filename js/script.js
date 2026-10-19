@@ -85,9 +85,7 @@ Type <span class="keyword">courses</span> for extra certifications.
 <span class="keyword">CVEs:</span>
 
   [x] <span class="keyword">CVE-2026-10835</span>   -- published <a href="https://wpscan.com/vulnerability/3c7b37ab-b069-4257-82b2-5b4c54f7e503/" target="_blank">here</a>.
-  [ ] <span class="keyword">SOON...</span>   -- status: COORDINATING (not public yet, details withheld until disclosure).
-
-Responsible disclosure takes patience. This list updates as things go public.
+  [x] <span class="keyword">CVE-2026-85000</span>   -- published <a href="https://wpscan.com/vulnerability/3c7f7d07-2c46-4839-b97f-27fe41e6292d/" target="_blank">here</a>.
     `,
     'alum4r': `
 <span class="keyword">BUG BOUNTY / CTF ACHIEVEMENTS:</span>
@@ -136,7 +134,7 @@ cve.list    contact.card social.card      github.link     .secrets
 <span class="keyword">Terminal:</span>  alum4r-term v2
 <span class="keyword">Uptime:</span>    6+ years hacking, still debugging
 <span class="keyword">Languages:</span> Python, Bash, PHP, Java, JS, C
-<span class="keyword">CVEs:</span>      2 (1 public, 1 coordinating)
+<span class="keyword">CVEs:</span>      2 (2 public)
 <span class="keyword">Packages:</span>  too many side-projects (unmanaged)
 <span class="keyword">Coffee:</span>    critically low
     `,
